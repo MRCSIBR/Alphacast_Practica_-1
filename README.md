@@ -27,7 +27,7 @@ El proyecto se centra en la manipulación de un dataset en formato Excel que con
 
 ### Estructura del Repositorio
 
-- **Alphacast_desafio.ipynb**: Notebook de Jupyter que contiene todo el código y análisis.
+- **Alphacast_desafio.ipynb**: Notebook Jupyter que contiene todo el código y análisis.
 - **Output_IPC.csv**: Archivo CSV generado a partir del dataset limpio y transformado.
 
 ## Cómo Usar
