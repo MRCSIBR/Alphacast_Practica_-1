@@ -8,7 +8,7 @@
 Este repositorio contiene el análisis y transformación de datos del Índice de Precios al Consumidor (IPC) de Argentina, obtenidos del Instituto Nacional de Estadística y Censos (INDEC). 
 El objetivo principal es explorar, limpiar y transformar los datos para facilitar su análisis y visualización.
 
-## Descripción del Proyecto
+### Descripción del Proyecto
 
 El proyecto se centra en la manipulación de un dataset en formato Excel que contiene los precios promedio de una selección de alimentos, bebidas y otros artículos de la canasta básica del IPC, desglosados por regiones y meses desde junio de 2017 hasta noviembre de 2024. El proceso incluye:
 
@@ -17,7 +17,7 @@ El proyecto se centra en la manipulación de un dataset en formato Excel que con
 3. **Transformación de datos**: Conversión del formato ancho (wide format) a formato largo (long format) para facilitar el análisis.
 
 
-## Tecnologías Utilizadas
+### Tecnologías Utilizadas
 
 - **Python**: Lenguaje de programación principal.
 - **Pandas**: Para la manipulación y análisis de datos.
@@ -25,7 +25,7 @@ El proyecto se centra en la manipulación de un dataset en formato Excel que con
 - **Regex**: Para la limpieza y renombrado de columnas.
 
 
-## Estructura del Repositorio
+### Estructura del Repositorio
 
 - **Alphacast_desafio.ipynb**: Notebook de Jupyter que contiene todo el código y análisis.
 - **Output_IPC.csv**: Archivo CSV generado a partir del dataset limpio y transformado.
