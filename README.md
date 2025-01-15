@@ -1,10 +1,9 @@
-# Alphacast_Practica_1
-Solucion a Issue: [https://github.com/Leopili1985/Issues/issues/1]
 
-El proyecto incluye notebook con el desarrollo de la solución +
-Dataset con el resultado final.
+
 
 # Alphacast Desafío 
+
+> Solucion a Issue: [https://github.com/Leopili1985/Issues/issues/1]
 
 Este repositorio contiene el análisis y transformación de datos del Índice de Precios al Consumidor (IPC) de Argentina, obtenidos del Instituto Nacional de Estadística y Censos (INDEC). 
 El objetivo principal es explorar, limpiar y transformar los datos para facilitar su análisis y visualización.
