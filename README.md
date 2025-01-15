@@ -36,6 +36,10 @@ El proyecto se centra en la manipulación de un dataset en formato Excel que con
    ```bash
    git clone https://github.com/MRCSIBR/Alphacast_Practica_1.git
 
+### Update
+
+Notebook con proceso para subir dataframe a repos de Alphacast `Alphacast_SDK.ipynb`
+
 2. Instalacion libreria Alphacast
    ```bash
    pip install alphacast   
